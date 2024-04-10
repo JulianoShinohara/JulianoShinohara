@@ -5,7 +5,7 @@
 
 ## 👨‍🎓 About Me :
 - 🎓 I'm currently studying Computer Science at Federal Technological University of Paraná, Campo Mourão.
-- 📕 I’m currently learning Angular CLI, Typescript and Python.
+- 📕 I’m currently learning Java, Angular CLI, Typescript and Python.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/juliano-shinohara-5619531ab/)
