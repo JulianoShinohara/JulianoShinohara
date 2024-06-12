@@ -14,7 +14,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianoShinohara/)
 
 ### 🏆 Github Stats:
-<p align="center">
+<p align="left">
     <a href="https://github.com/JulianoShinohara">
         <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=JulianoShinohara&hide=stars&show_icons=true&theme=tokyonight&count_private=true" />
 <!--         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrque&hide=smalltalk&theme=dark&layout=compact&langs_count=6" />  -->
