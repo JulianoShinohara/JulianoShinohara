@@ -15,6 +15,8 @@
 
 ![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoShinohara&show_icons=true&theme=tokyonight)
 
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={JulianoShinohara}&theme={tokyonight}
+
 ## :wrench: Technologies
 
 <div style="display: inline_block"><br/>
