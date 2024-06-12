@@ -15,6 +15,14 @@
 
 ![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoShinohara&show_icons=true&theme=tokyonight&count_private=true)
 
+### 🏆 Github Stats:
+<p align="center">
+    <a href="https://github.com/JulianoShinohara">
+        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=JulianoShinohara&hide=stars&show_icons=true&theme=tokyonight&count_private=true" />
+<!--         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrque&hide=smalltalk&theme=dark&layout=compact&langs_count=6" />  -->
+    </a>
+</p>
+
 
 
 
