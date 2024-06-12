@@ -13,7 +13,7 @@
 )](https://www.instagram.com/juliano.shinohara/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianoShinohara/)
 
-![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoShinohara&show_icons=true&theme=tokyonight)
+![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoShinohara&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
