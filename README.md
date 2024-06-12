@@ -15,7 +15,8 @@
 
 ![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoShinohara&show_icons=true&theme=tokyonight)
 
-![Juliano GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={JulianoShinohara}&theme={tokyonight})
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoShinohara)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
